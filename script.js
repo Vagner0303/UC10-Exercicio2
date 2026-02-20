@@ -1,1 +1,1 @@
-console.log("segfdergdrhg")
+let nome = "Juan"
