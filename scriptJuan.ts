@@ -1,6 +1,6 @@
 let idade: number = "18"; 
 
-function somar(a: number, b: number) {
+function somar(a, b) {
   return a + b;
 }
 
